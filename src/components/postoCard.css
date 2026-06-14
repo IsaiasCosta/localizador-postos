@@ -1,0 +1,35 @@
+.posto-card {
+  margin: 0;
+  border-radius: 16px !important;
+}
+
+.posto-card:hover {
+  transform: translateY(-4px);
+}
+
+.posto-header {
+  background: #0d2b45;
+  color: white;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.posto-info {
+  padding: 20px;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  color: #444;
+}
+
+.maps-btn {
+  margin-top: 15px !important;
+  width: 100%;
+  border-radius: 12px !important;
+  padding: 12px !important;
+}

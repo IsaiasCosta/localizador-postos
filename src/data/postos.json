@@ -1,0 +1,162 @@
+[
+  {
+    "id": 100,
+    "nome": "POSTO 100 TEOFILO OTONI",
+    "endereco": "Avenida Sidônio Otoni, 683",
+    "cidade": "Teófilo Otoni",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/FdUh4egaV8krsa2J9"
+  },
+  {
+    "id": 601,
+    "nome": "POSTO 601 BARBACENA",
+    "endereco": "Rua Benjamin Constant, 200",
+    "cidade": "Barbacena",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/W4355DEUBhz8XS2U6"
+  },
+  {
+    "id": 603,
+    "nome": "POSTO 603 UBÁ",
+    "endereco": "Rua Frei Cornélio, 14",
+    "cidade": "Ubá",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/huy8LmAwxUpgvYqAA"
+  },
+  {
+    "id": 605,
+    "nome": "POSTO 605 JANUARIA",
+    "endereco": "Avenida Marechal Deodoro ...",
+    "cidade": "Januária",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/og7Q91DXVMkK4XDcA"
+  },
+  {
+    "id": 606,
+    "nome": "POSTO 606 UBERABA",
+    "endereco": "Rua Coronel Cacildo Arante ...",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/EkXNK5a7YGotfD9o8"
+  },
+  {
+    "id": 607,
+    "nome": "POSTO 607 UBERLANDIA",
+    "endereco": "Avenida João Leão, 7085",
+    "cidade": "Uberlândia",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/6Jdw6CMEsM9cQfBu9"
+  },
+  {
+    "id": 609,
+    "nome": "POSTO 609 CORINTO",
+    "endereco": "Avenida Amarante Ribeiro",
+    "cidade": "Corinto",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/qeGyqTUbmeuicFkL9"
+  },
+  {
+    "id": 612,
+    "nome": "POSTO 612 SETE LAGOAS",
+    "endereco": "Avenida Tunico Reis, 122",
+    "cidade": "Sete Lagoas",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/xR4DzRATnMWpepm29"
+  },
+  {
+    "id": 616,
+    "nome": "POSTO 616 MONTES CLAROS",
+    "endereco": "Avenida Donato Quintino, 08",
+    "cidade": "Montes Claros",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/YWhtJoPMsiYvVGEc8"
+  },
+  {
+    "id": 617,
+    "nome": "POSTO 617 J F - SÃO MATEUS",
+    "endereco": "Ladeira Alexandre Leonel, 200",
+    "cidade": "Juiz de Fora",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/xw3iqUa2AoM37ebR7"
+  },
+  {
+    "id": 618,
+    "nome": "POSTO 618 J F - MARIANO PR",
+    "endereco": "Avenida Brasil, 6123",
+    "cidade": "Juiz de Fora",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/Y1KhmznWZF9b6e437"
+  },
+  {
+    "id": 619,
+    "nome": "POSTO 619 JANAUBA",
+    "endereco": "Rua São Pedro, 650",
+    "cidade": "Janaúba",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/ua32Rqrabh3tukro7"
+  },
+  {
+    "id": 620,
+    "nome": "POSTO 620 IPATINGA",
+    "endereco": "Avenida Alberto Giovannini, 165",
+    "cidade": "Ipatinga",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/Ecf2pceSQ3Nvze3KA"
+  },
+  {
+    "id": 621,
+    "nome": "POSTO 621 PADRE EUSTAQUIO",
+    "endereco": "Rua Pará de Minas, 788",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/46d2B3P4FBn1vq8q8"
+  },
+  {
+    "id": 622,
+    "nome": "POSTO 622 CORONEL FABRICIANO",
+    "endereco": "Praça Sérvulo Roque, 86",
+    "cidade": "Coronel Fabriciano",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/BWhTyXhsBGUevCWo9"
+  },
+  {
+    "id": 623,
+    "nome": "POSTO 623 CINQUENTENARIO",
+    "endereco": "Rua Úrsula Paulino, 763",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/nLBxTrnX4S34LLsBA"
+  },
+  {
+    "id": 624,
+    "nome": "POSTO REDE BRASIL",
+    "endereco": "Rodovia BR-101 Norte, 3616",
+    "cidade": "Serra",
+    "uf": "ES",
+    "link": "https://maps.app.goo.gl/h7S9vDHzjfbiVXQ19"
+  },
+  {
+    "id": 625,
+    "nome": "POSTO SAO JOAO DEL REI",
+    "endereco": "Avenida Leite de Castro, 261",
+    "cidade": "São João del Rei",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/kJY5q26zCP1YWwWZ7"
+  },
+  {
+    "id": 626,
+    "nome": "POSTO SERRA",
+    "endereco": "Rodovia BR 101 Norte, 3616",
+    "cidade": "Serra",
+    "uf": "ES",
+    "link": "https://maps.app.goo.gl/XXYSaBF1fSM7AUpD8"
+  },
+  {
+    "id": 627,
+    "nome": "POSTO SJDR II/SHARK",
+    "endereco": "Avenida Sete de Setembro, 10",
+    "cidade": "São João del Rei",
+    "uf": "MG",
+    "link": "https://maps.app.goo.gl/VKD5xSkX3dAJ4wMD7"
+  }
+]
