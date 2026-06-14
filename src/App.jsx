@@ -9,7 +9,7 @@ function App() {
   const resultado = postos.filter(
     p =>
       p.nome.toLowerCase().includes(filtro.toLowerCase()) ||
-      p.cidade.toLowerCase().includes(filtro.toLowerCase()) 
+      p.cidade.toLowerCase().includes(filtro.toLowerCase())
   );
 
   return (
